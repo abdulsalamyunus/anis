@@ -30,7 +30,7 @@ var CountdownLabels = {
 	year 	: "YEARS"	
 };
 
-var CountdownInterval = 76;
+var CountdownInterval = 300;
 
 
 ////////////////////////////////////////////
